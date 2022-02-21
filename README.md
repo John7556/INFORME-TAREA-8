@@ -80,19 +80,38 @@ Capitulo 15
 
 45
 
+![image](https://user-images.githubusercontent.com/93899720/155037496-12203e26-09fb-4f01-8087-e950197575dd.png)
+
 47
 
 49
+
+![image](https://user-images.githubusercontent.com/93899720/155037533-253317d5-0b00-45f4-86f0-5f902f9f89f4.png)
+
+![image](https://user-images.githubusercontent.com/93899720/155037569-5323b099-960a-4c5e-bdfc-ab23556b5efb.png)
+
 
 51
 
 53
 
+![image](https://user-images.githubusercontent.com/93899720/155037617-b0afab8a-6ea5-41eb-b33b-ee7cd9c65f4c.png)
+
 55
 
 57
 
+![image](https://user-images.githubusercontent.com/93899720/155037635-5ece40be-7ee1-40db-9f63-1e6066d1050c.png)
+
 59
+
+61
+
+![image](https://user-images.githubusercontent.com/93899720/155037678-3a865321-9b34-44d2-a696-5cf6845c1dc7.png)
+
+63
+
+65
 
 Capitulo 16 
 
