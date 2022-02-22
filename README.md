@@ -122,26 +122,37 @@ Capitulo 16
 
 1
 
+![image](https://user-images.githubusercontent.com/93899720/155043794-20a1bf84-b3df-4402-af20-bd4d6c6f3eb1.png)
 
 3
 
 5
 
+![image](https://user-images.githubusercontent.com/93899720/155043812-e3e79a9f-d7fa-4095-a6ab-b95683438662.png)
+
 7
 
 9
+
+![image](https://user-images.githubusercontent.com/93899720/155043836-16ba9eca-8ac4-4fad-a9ba-4f531e93550e.png)
 
 11
 
 13
 
+![image](https://user-images.githubusercontent.com/93899720/155043855-830ce108-9eb7-47df-a48d-1287300fa5e7.png)
+
 15
 
 17
 
+![image](https://user-images.githubusercontent.com/93899720/155043901-f44a078d-43f0-4c4e-8aed-87503a81ad54.png)
+
 19
 
 21
+
+![image](https://user-images.githubusercontent.com/93899720/155043918-2f004888-25fc-49a6-9926-b47ab14c44eb.png)
 
 23
 
