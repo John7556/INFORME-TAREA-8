@@ -224,5 +224,7 @@ Los análisis de circuitos RL y RC son similares. La diferencia principal es que
 6. BIBLIOGRAFÍA
 
 Floyd, T., 2007. Principios de circuitos eléctricos. México: Pearson.
+
 Youtube.com. 2022. [online] Available at: <https://www.youtube.com/watch?v=eWq4Ui3Jq0k> [Accessed 22 February 2022].
+
 Youtube.com. 2022. [online] Available at: <https://www.youtube.com/watch?v=B60G3_Vj3l4> [Accessed 22 February 2022].
