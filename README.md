@@ -8,7 +8,7 @@ Analizar y comprender los circuitos RC y RL en su funcionamiento fazoria.
 
  - Objetivos Especificos 
  
-Observar la diferencia entre los circuitos RL y RC en distintos momentos con trazados similares.
+ - Observar la diferencia entre los circuitos RL y RC en distintos momentos con trazados similares.
 
 Determinar si los análisis de circuitos RL y RC son similares
 
