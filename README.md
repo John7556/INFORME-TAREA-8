@@ -1,10 +1,26 @@
 # INFORME-TAREA-8
 
 1. OBJETIVOS
+
  - Objetivo General 
+
+Analizar y comprender los circuitos RC y RL en su funcionamiento fazoria.
+
  - Objetivos Especificos 
+ 
+Observar la diferencia entre los circuitos RL y RC en distintos momentos con trazados similares.
+
+Determinar si los análisis de circuitos RL y RC son similares
 
 2. MARCO TEÓRICO (RESUMEN)
+
+![Circuitos RC parte 1](https://user-images.githubusercontent.com/93899720/155081093-0173217a-55eb-4a60-ab72-7480b1ee03db.jpg)
+
+![Circuitos RC parte 2](https://user-images.githubusercontent.com/93899720/155081120-e2d4a29d-918a-4c1b-a85a-87eabffa24a1.jpg)
+
+![Circuitos LC parte 1](https://user-images.githubusercontent.com/93899720/155081146-daf5f8f4-f52a-4c6c-a8c0-ec2274984be4.jpg)
+
+![Circuitos LC parte 2](https://user-images.githubusercontent.com/93899720/155081164-be87453a-b9be-411d-bb02-5abb131488e4.jpg)
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -200,7 +216,13 @@ Capitulo 16
 
 5. CONCLUSIONES
 
+Un circuito RC contiene tanto resistencia como capacitancia, se analizan combinaciones dispuestas en serie-paralelo, las potencias verdadera, reactiva y aparente en circuitos RC,  Las aplicaciones de circuitos RC incluyen filtros, acoplamiento de amplificadores, osciladores, y circuitos modificadores de ondas, los números complejos constituyen una herramienta importante para el análisis de circuitos de ca.
+El sistema de números complejos es una forma de expresar matemáticamente una cantidad fasorial y permite sumar, restar, multiplicar y dividir cantidades fasoriales.
+
+Los análisis de circuitos RL y RC son similares. La diferencia principal es que las respuestas de fase son opuestas: la reactancia inductiva se incrementa con la frecuencia, en tanto que la reactancia capacitiva disminuye con la frecuencia. Un circuito RL contiene tanto resistencia como inductancia.  Se analizan combinaciones en serie-paralelo. Se introducen las potencias real, reactiva y aparente en circuitos RL y algunas aplicaciones básicas de éstos. Las aplicaciones de circuitos RL incluyen filtros y reguladores de conmutación
 
 6. BIBLIOGRAFÍA
 
-
+Floyd, T., 2007. Principios de circuitos eléctricos. México: Pearson.
+Youtube.com. 2022. [online] Available at: <https://www.youtube.com/watch?v=eWq4Ui3Jq0k> [Accessed 22 February 2022].
+Youtube.com. 2022. [online] Available at: <https://www.youtube.com/watch?v=B60G3_Vj3l4> [Accessed 22 February 2022].
